@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  IProBonusApp
-//
-//  Created by Anastasiia Bugaeva on 28.06.2023.
-//
-
 import UIKit
 
 @main
